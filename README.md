@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0002-add-two-numbers) |
+| [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
 ## Graph
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1325-path-with-maximum-probability) |
+## Simulation
+|  |
+| ------- |
+| [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
 <!---LeetCode Topics End-->
