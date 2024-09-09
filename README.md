@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2411-spiral-matrix-iv) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
