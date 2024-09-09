@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0906-walking-robot-simulation](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0906-walking-robot-simulation](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
