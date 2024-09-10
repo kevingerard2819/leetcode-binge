@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
