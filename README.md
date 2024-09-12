@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0009-palindrome-number) |
+| [1585-the-kth-factor-of-n](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
