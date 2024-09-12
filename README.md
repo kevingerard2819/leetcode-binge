@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0010-regular-expression-matching) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0010-regular-expression-matching) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sliding Window
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0010-regular-expression-matching) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Binary Tree
 |  |
