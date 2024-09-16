@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0009-palindrome-number) |
+| [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 | [1585-the-kth-factor-of-n](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 | [0735-asteroid-collision](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0906-walking-robot-simulation) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sliding Window
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
