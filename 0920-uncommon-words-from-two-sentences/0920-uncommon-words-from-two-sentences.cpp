@@ -7,7 +7,10 @@ public:
    {
      stringstream ss(s);
      string word;
-     while(ss>>word) mp[word]++;
+     while(ss>>word)
+     {
+         mp[word]++;
+     }    
    }
     vector<string> uncommonFromSentences(string s1, string s2) 
     {
