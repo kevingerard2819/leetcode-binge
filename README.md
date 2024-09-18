@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0179-largest-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 | [0735-asteroid-collision](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0792-binary-search) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -168,5 +170,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
