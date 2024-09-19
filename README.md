@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0009-palindrome-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 | [1585-the-kth-factor-of-n](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Binary Tree
 |  |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0179-largest-number) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
