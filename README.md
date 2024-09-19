@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0179-largest-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 | [0735-asteroid-collision](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0735-asteroid-collision) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Queue
