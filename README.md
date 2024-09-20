@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2470-removing-stars-from-a-string](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2155-find-missing-observations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2470-removing-stars-from-a-string](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2470-removing-stars-from-a-string](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
