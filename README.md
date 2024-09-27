@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0906-walking-robot-simulation](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Prefix Sum
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0539-minimum-time-difference) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Greedy
 |  |
 | ------- |
