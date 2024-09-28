@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0859-design-circular-deque) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Number Theory
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
