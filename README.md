@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1002-maximum-width-ramp](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1002-maximum-width-ramp) |
 | [2470-removing-stars-from-a-string](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1002-maximum-width-ramp) |
 | [1325-path-with-maximum-probability](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/0731-my-calendar-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/kevingerard2819/-github.com-kevingerard2819-leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
