@@ -1,4 +1,4 @@
-class Solution:
+class Solution: 
     def highestPeak(self, isWater: List[List[int]]) -> List[List[int]]:
         R = len(isWater)
         C = len(isWater[0])
